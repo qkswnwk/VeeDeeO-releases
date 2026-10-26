@@ -1,1 +1,1 @@
-# VeeDeeo-releases
+# VeeDeeO-releases
